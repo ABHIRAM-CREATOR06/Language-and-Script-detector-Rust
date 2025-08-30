@@ -10,6 +10,7 @@ Enter some text when prompted. The program will detect the language and provide 
 ## Example
 
 Enter some text: Bonjour tout le monde
+
 Language type: Lang("fra")
 
 Language Script: Script("Latin")
